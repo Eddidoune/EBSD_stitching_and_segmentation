@@ -1,0 +1,16 @@
+Channel Text File
+Prj	
+Author	
+JobMode	Grid
+XCells	911
+YCells	658
+XStep	2.0000
+XStep	2.0000
+AcqE1	0.0000
+AcqE2	0.0000
+AcqE3	0.0000
+Euler angles refer to Sample Coordinate system (CS0)!	Mag	70.0000	coverage	93	Device	0	KV	25.0000	TiltAngle	70.0000	TiltAxis	0	DetectorOrientationE1	359.9238	DetectorOrientationE2	92.8941	DetectorOrientationE3	2.6309	WorkingDistance	15.5100	InsertionDistance	151.5
+Phases	1
+2.866;2.866;2.866	90.000;90.000;90.000	Iron bcc (old)	11	229			J.,Appl.,Phys.,[JAPIAU],,vol.,42,,pages,4290-95
+3.660;3.660;3.660	90.000;90.000;90.000	Iron fcc	11	225			Z. Angew. Phys. [ZAPHAX], vol. 23, pages 245-249
+Phase	X	Y	Bands	Error	Euler1	Euler2	Euler3	MAD	BC	BS
