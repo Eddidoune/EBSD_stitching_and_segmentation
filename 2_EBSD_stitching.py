@@ -330,7 +330,7 @@ if __name__ == '__main__' :
 
     # Import all datas and chose a resize parameter to reduce the size of EBSD.ctf file (2000px max is good for Matlab post processing)
     nx, ny = EBSD_full_map_repositionned.shape
-    resize_factor = 1
+    resize_factor = max(nx,ny)/3000
     
     npnames = []
     npfiles = []
